@@ -5,10 +5,10 @@ var trueObj = {
 };
 
 var falseObj = {
-    age: '',
-    eye: '',
-    name: '',
-    birthDate: ''
+      age: '',
+      eye: '',
+      name: '',
+      birthDate: ''
 };
 
 var filter = {
@@ -16,7 +16,6 @@ var filter = {
 	eye: '',
 	name: '',
 };
-
 
 
 function reqCompareKeys(object, filterObj) {
